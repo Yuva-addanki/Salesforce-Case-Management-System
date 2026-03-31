@@ -25,6 +25,14 @@ Customer → Case Created → Priority Assigned → Case Assigned → Email Noti
 
 ## 📸 Screenshots
 
+### Case Creation
+![Case](case.png)
+
+### Flow Automation
+![Flow](flow.png)
+
+### Dashboard
+![Dashboard](Dashboard.png)
 
 
 
